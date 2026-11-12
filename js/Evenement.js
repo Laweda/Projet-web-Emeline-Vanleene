@@ -1,4 +1,4 @@
-class Evenement {
+class Evenement { // notre classe, on définie notre objet
   constructor(titre, jour, heureDebut, duree, description, lieu) {
     this.titre = titre;
     this.jour = jour;
@@ -8,6 +8,7 @@ class Evenement {
     this.lieu = lieu;
   }
 
+  /* 
   heureFin() {
     const heures = Number(this.duree.slice(0, 2));
     const minutes = Number(this.duree.slice(3, 5));
@@ -20,17 +21,23 @@ class Evenement {
 
     return h + ":" + m;
   }
+  */
 
-  carte() {
+  carte() { // Fonction lié à l'aspect visuel de nos cartes
     return `
+    <div>
       <li class="carte">
         <h3>${this.titre}</h3>
         <img ${this.image}>
-        <p class="jour">${this.jour}</p>
+        <p class="jour">${this.jour}</p> 
         <p class="heureDebut">${this.heureDebut}</p>
         <p class="duree">${this.duree}</p>
-        <p class="dexription">${this.description}</p>
+        <p class="description">${this.description}</p>
         <p class="lieu">${this.lieu}</p>
-      </li>`;
+      </li>
+      </div>
+      `;
   }
-}
+} 
+
+// L'image sera récupérée plus tard lorsque l'on aura créé la bdd. Pareil pour les autres informations.
