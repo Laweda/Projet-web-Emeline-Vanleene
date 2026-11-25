@@ -37,5 +37,4 @@ Une ligne par séance. L'historique Git dit *qui* a fait *quoi* ; le journal dit
 
 | Séance | Ce qu'on a fait | Ce qui bloque |
 |--------|-----------------|---------------|
-| 1      | Création des
-cartes avec les évènements|               |
+| 1      | Création descartes avec les évènements|               |
