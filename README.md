@@ -10,9 +10,12 @@
 
 ## Le festival
 
-- **Thème :**
+- **Thème : Festival de fromages
 - **En une phrase :**
 - **Blind test envisagé :** audio / vidéo — sur quoi ? (idée d'évènement sur le site : il faut qu'il se passe qql chose)
+  Idée d'évènements interactifs :
+  - Une carte sur laquelle il faut replacer les différents fromages
+  - Un jeu où l'on associe les fromages avec leur lait 
 
 ## Lancer le projet
 
@@ -34,4 +37,5 @@ Une ligne par séance. L'historique Git dit *qui* a fait *quoi* ; le journal dit
 
 | Séance | Ce qu'on a fait | Ce qui bloque |
 |--------|-----------------|---------------|
-| 1      |                 |               |
+| 1      | Création des
+cartes avec les évènements|               |
