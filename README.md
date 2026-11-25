@@ -15,7 +15,8 @@
 - **Blind test envisagé :** audio / vidéo — sur quoi ? (idée d'évènement sur le site : il faut qu'il se passe qql chose)
   Idée d'évènements interactifs :
   - Une carte sur laquelle il faut replacer les différents fromages
-  - Un jeu où l'on associe les fromages avec leur lait 
+  - Un jeu où l'on associe les fromages avec leur lait
+  - Un jeu d'association de fromages : il faut retourner les cartes et obtenir deux identiques
 
 ## Lancer le projet
 
